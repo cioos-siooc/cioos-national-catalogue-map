@@ -4,7 +4,7 @@ A web application that displays geospatial datasets from a CIOOS CKAN repository
 
 ## 🔗 Live Site
 
-👉 [View the app](https://cioos-siooc.github.io/cioos-national-catalogue-map)
+👉 [View the app](https://cataloguemap.cioos.ca)
 
 ## 📌 Features
 
