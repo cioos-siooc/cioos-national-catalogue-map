@@ -22,12 +22,12 @@ title:
 banner:
   enabled: true
   message:
-    en: "**Important:** This site will undergo maintenance on Dec 31. [Learn more](https://example.com)"
-    fr: "**Important :** Ce site sera en maintenance le 31 déc. [En savoir plus](https://example.com)"
+    en: "**Notice :** CIOOS affiliated organizations are not appropriately represented on this site. Work is underway to address this issue."
+    fr: "**Avis :** Les organisations affiliées au SIOOC ne sont pas adéquatement représentées sur ce site. Des travaux sont en cours pour remédier à cette situation."
   # Optional: Date after which the banner will no longer be displayed (YYYY-MM-DD)
   # expires: "2025-12-31"
   # Optional: Banner syling classes (Tailwind CSS)
-  # className: "bg-accent-500 text-black"
+  className: "bg-primary-500 text-white"
 
 
 metadata:
