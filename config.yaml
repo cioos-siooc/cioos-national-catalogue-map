@@ -1,6 +1,6 @@
 ---
 catalogue_url: https://catalogue.cioos.ca
-base_query: "temp"
+base_query: ""
 
 map:
   center: [65, -110]
