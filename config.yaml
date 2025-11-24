@@ -3,9 +3,9 @@ catalogue_url: https://catalogue.cioos.ca
 base_query: ""
 
 map:
-  center: [65, -110]
+  center: [65, -100]
   zoom: 4
-  zoom_mobile: 5
+  zoom_mobile: 2
 
 default_language: en
 
