@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # Will be executed every Friday at 5:00 PM Eastern Time (Daylight Saving Time / 9:00 PM UTC)
+    - cron: '0 21 * * 5'
   workflow_dispatch:
 
 permissions: # Add this block to set permissions
